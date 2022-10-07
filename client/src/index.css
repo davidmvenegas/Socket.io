@@ -2,4 +2,22 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+}
+.input-box {
+    margin: 2.5rem 0;
+}
+.message-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+ul {
+    padding: 0;
+    text-align: center;
+}
+li {
+    list-style: none;
+    padding-bottom: 10px;
 }
